@@ -1,5 +1,8 @@
 # FCC_python_projects
-Projects I've completed for Scientific Computing with Python on freecodecamp.org.
+
+In DataAPython folder you can find what I'm currently working on for the Data Analysis with Python course on freecodecamp.org
+
+In SCPython_projects folder you can find the projects I've completed for the Scientific Computing with Python course on freecodecamp.org.
 
 You can go to my profile on replit to see them in action : https://replit.com/@Margrid
 
